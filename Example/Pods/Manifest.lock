@@ -1,0 +1,16 @@
+PODS:
+  - HLMediator (0.1.0)
+
+DEPENDENCIES:
+  - HLMediator (from `../`)
+
+EXTERNAL SOURCES:
+  HLMediator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HLMediator: 286469fda62eb89ebf4b80685534d1655b48072d
+
+PODFILE CHECKSUM: 1789f6fa17ad25f24bf86607fff686d1c629bffc
+
+COCOAPODS: 1.9.3
